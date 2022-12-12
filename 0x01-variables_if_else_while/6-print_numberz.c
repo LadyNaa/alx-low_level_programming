@@ -11,7 +11,7 @@ int main(void)
 	for (numbz = 0; numbz < 10; numbz++)
 		putchar((numbz % 10) + '0');
 
-	putchar("\n");
+	putchar('\n');
 
 	return (0);
 }
